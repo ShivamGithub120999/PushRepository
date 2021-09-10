@@ -1,0 +1,4 @@
+*.log
+/dir/
+static/dir
+My_New_Access_Database
